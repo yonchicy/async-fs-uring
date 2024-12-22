@@ -1,6 +1,7 @@
 # a basic rust async runtime based on uring-io
 
 
+example :
 ```rust
 fn main() {
     let mut e = runtime::init();
